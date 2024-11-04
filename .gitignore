@@ -13,13 +13,7 @@ config.json
 # Environment variable files
 *.env
 
-# Dependency files (optional)
-# Uncomment this if you want to ignore requirements.txt (e.g., if it’s auto-generated)
-# requirements.txt
-
 # OS-specific files
 .DS_Store
 Thumbs.db
 
-# VS Code settings (optional)
-.vscode/
