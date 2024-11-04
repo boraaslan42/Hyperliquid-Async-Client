@@ -1,0 +1,4 @@
+aiohttp==3.10.10
+eth_account==0.10.0
+eth_utils==2.2.0
+msgpack_python==0.5.6

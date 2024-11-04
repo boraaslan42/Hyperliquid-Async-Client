@@ -1,0 +1,5 @@
+{
+    "secret_key": "your secret_key",
+    "account_address": "your account_address, also rename this file to config.json"
+    
+}
